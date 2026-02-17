@@ -110,6 +110,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // Initial render
+  // Initial renderrtt
   updateDisplay();
 });
